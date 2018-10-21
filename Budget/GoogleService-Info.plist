@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>752879639029-f315220lt5mbdhnq16hqartsv2nt8kab.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.752879639029-f315220lt5mbdhnq16hqartsv2nt8kab</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA3U2v9QUz7ZK70HDwlhvwqhtin7nX0-Zg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>752879639029</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>TC.Budget</string>
+	<key>PROJECT_ID</key>
+	<string>budgetapp-a7ac0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>budgetapp-a7ac0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:752879639029:ios:817e2a1d1d9a5595</string>
+	<key>DATABASE_URL</key>
+	<string>https://budgetapp-a7ac0.firebaseio.com</string>
+</dict>
+</plist>
